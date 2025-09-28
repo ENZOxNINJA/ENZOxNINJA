@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <p align="center">
-  <img src="https://i.imgur.com/q5k2r0L.png" alt="Cyber Keris Tech Banner" width="800"/>
+  <img src="[https://i.imgur.com/q5k2r0L.png](https://th.bing.com/th/id/R.1602b26c05ee78120695d592a68b8912?rik=bJUZPKTAfTDRfQ&pid=ImgRaw&r=0)" alt="Cyber Keris Tech Banner" width="800"/>
 </p>
 
 # <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ Enzo | Alan The Marvel | The Dragon Coder | ENZOxNINJA 🛡️</span></p>
@@ -16,20 +16,19 @@ AI Automation | Blockchain Security | Smart Contract Audits | Full-Stack Innovat
 
 ---
 
-## <p align="center"><span style="background: linear-gradient(90deg,#00CED1,#6A0DAD,#00BFFF);-webkit-background-clip:text;color:transparent;">🌐 About Me</span></p>
+## <p align="center"><span style="background: linear-gradient(90deg,#00CED1,#6A0DAD,#00BFFF);-webkit-background-clip:text;color:transparent;">🌐 About Cyber Keris Tech</span></p>
 
 <p align="justify">
-🔹 Currently Building: <strong>Cyber Keris Tech</strong> & <strong>Nof Focunno Compiler</strong><br>
-🔹 Always Learning: AI-driven security analysis, blockchain protocols, real-time AI debugging<br>
-🔹 Tech Stack: <code>Python | Solidity | JavaScript | C++ | TensorFlow | PyTorch | Docker | Kubernetes</code><br>
-🔹 Focus Areas: Smart contracts, ethical hacking, penetration testing<br>
-🔹 Mission: Automate everything. Optimize everything. Secure everything.<br>
-🔹 Contact: <a href="mailto:Alan@Themarvel.Space">Alan@Themarvel.Space</a> | 🌍 <a href="https://Themarvel.Space">Themarvel.Space</a>
+Cyber Keris Tech is the flagship organization founded by Enzo (Alan The Marvel | ENZOxNINJA).<br>
+Currently building AI-powered development solutions with real-time debugging, blockchain security, and automation.<br>
+Tech Stack: <code>Python | Solidity | JavaScript | C++ | HTML | CSS | Node.js | TensorFlow | PyTorch | Docker | Kubernetes</code><br>
+Mission: Automate everything. Optimize everything. Secure everything.<br>
+Contact: <a href="mailto:Alan@Themarvel.Space">Alan@Themarvel.Space</a> | 🌍 <a href="https://Themarvel.Space">Themarvel.Space</a>
 </p>
 
 ---
 
-## <p align="center"><span style="background: linear-gradient(90deg,#00BFFF,#6A0DAD,#00CED1);-webkit-background-clip:text;color:transparent;">⚡ Featured Projects</span></p>
+## <p align="center"><span style="background: linear-gradient(90deg,#00BFFF,#6A0DAD,#00CED1);-webkit-background-clip:text;color:transparent;">⚡ Featured Project</span></p>
 
 <div align="center">
 
@@ -38,26 +37,37 @@ AI Automation | Blockchain Security | Smart Contract Audits | Full-Stack Innovat
 <td align="center" width="280px">
   <h3>Cyber Keris Tech</h3>
   <a href="https://Themarvel.Space">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220" alt="Cyber Keris Tech Preview"/>
+    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="220" alt="Cyber Keris Tech Preview"/>
   </a>
-  <p>AI-powered coding ecosystem with <strong>real-time debugging, AI-assisted documentation, blockchain security, automated CI/CD, and voice coding.</strong></p>
+  <p>AI-powered coding ecosystem with <strong>real-time debugging, AI-assisted documentation, blockchain security, automated CI/CD pipelines, and voice coding.</strong></p>
   <a href="https://Themarvel.Space">Explore Project →</a>
 </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <p align="center"><span style="background: linear-gradient(90deg,#6A0DAD,#00CED1,#00BFFF);-webkit-background-clip:text;color:transparent;">🤖 AI Assistants</span></p>
+
+<div align="center">
+
+<table>
+<tr>
 <td align="center" width="280px">
-  <h3>Nof Focunno Compiler</h3>
+  <h3>Nexus AI</h3>
   <a href="https://Themarvel.Space">
-    <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="220" alt="Nof Focunno Compiler Preview"/>
+    <img src="https://media.giphy.com/media/26gR0lQ9SVeeq9QvG/giphy.gif" width="220" alt="Nexus AI Preview"/>
   </a>
-  <p>Next-gen compiler with <strong>AI-powered optimization, error detection, and execution efficiency.</strong> Phase One live with free AI integrations.</p>
-  <a href="https://Themarvel.Space">Explore Compiler →</a>
+  <p><strong>Your intelligent assistant for code orchestration, real-time debugging, and automation support.</strong></p>
 </td>
 <td align="center" width="280px">
-  <h3>KEW.PA Forms App</h3>
+  <h3>Legion AI</h3>
   <a href="https://Themarvel.Space">
-    <img src="https://media.giphy.com/media/26gR0lQ9SVeeq9QvG/giphy.gif" width="220" alt="KEW.PA Forms Preview"/>
+    <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="220" alt="Legion AI Preview"/>
   </a>
-  <p>Document recognition AI automating <strong>KEW.PA form processing</strong> across multiple file formats efficiently.</p>
-  <a href="https://Themarvel.Space">Learn More →</a>
+  <p><strong>Sentient AI assistant for advanced task automation, AI-driven optimization, and development acceleration.</strong></p>
 </td>
 </tr>
 </table>
@@ -74,7 +84,8 @@ AI Automation | Blockchain Security | Smart Contract Audits | Full-Stack Innovat
 |--------|--------|
 | **Cybersecurity** | Smart contract audits, penetration testing, real-time exploit detection |
 | **Blockchain Security** | Tamper-proof decentralized systems, Web3 & DeFi security |
-| **AI & Automation** | AI-powered debugging, code optimization, intelligent assistants |
+| **AI & Automation** | AI-powered debugging, code optimization, intelligent assistants (Nexus & Legion) |
+| **Web Development** | HTML, CSS, Node.js, Full-Stack Architecture |
 
 </div>
 
@@ -83,6 +94,9 @@ AI Automation | Blockchain Security | Smart Contract Audits | Full-Stack Innovat
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -102,7 +116,7 @@ AI Automation | Blockchain Security | Smart Contract Audits | Full-Stack Innovat
 
 ---
 
-## <p align="center"><span style="background: linear-gradient(90deg,#00BFFF,#6A0DAD,#00CED1);-webkit-background-clip:text;color:transparent;">💡 Connect with Me</span></p>
+## <p align="center"><span style="background: linear-gradient(90deg,#00BFFF,#6A0DAD,#00CED1);-webkit-background-clip:text;color:transparent;">💡 Connect with Cyber Keris Tech</span></p>
 
 <div align="center">
 <a href="https://Themarvel.Space"><img src="https://img.shields.io/badge/Website-Themarvel.Space-blue?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
@@ -115,4 +129,3 @@ AI Automation | Blockchain Security | Smart Contract Audits | Full-Stack Innovat
 <p align="center">
 <em>"Code isn’t just logic—it’s innovation. Build, automate, secure, and disrupt." 🚀</em>
 </p>
-
