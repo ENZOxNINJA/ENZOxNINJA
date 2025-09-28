@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <p align="center">
-  <img src="[https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-0bc4-61fa-91d7-c42bdf1567b0/raw?se=2025-09-28T11%3A52%3A20Z&sp=r&sv=2024-08-04&sr=b&scid=c116c4df-8cf6-58cf-9417-5125e8dee8c8&skoid=f8b66c09-1aa0-4801-9884-173c5cef2b8c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-27T23%3A34%3A01Z&ske=2025-09-28T23%3A34%3A01Z&sks=b&skv=2024-08-04&sig=A1lkVyIHQCnUDe8K2TeSyzNMtDjVvfCXEXXOo0y/aVc%3D]" alt="Cyber Keris Tech Banner" width="800"/>
+  <img src="ChatGPT Image Sep 28, 2025, 06_52_22 PM.png" alt="Cyber Keris Tech Banner" width="800"/>
 </p>
 
 # <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ Enzo | Alan The Marvel | The Dragon Coder | ENZOxNINJA 🛡️</span></p>
@@ -37,7 +37,7 @@ Contact: <a href="mailto:Alan@Themarvel.Space">Alan@Themarvel.Space</a> | 🌍 <
 <td align="center" width="280px">
   <h3>Cyber Keris Tech</h3>
   <a href="https://Themarvel.Space">
-    <img src="[https://www.itl.cat/pngfile/big/195-1950897_matrix-code-animation-gif-free-animated-background-binary.gif]" width="220" alt="Cyber Keris Tech Preview"/>
+    <img src="195-1950897_matrix-code-animation-gif-free-animated-background-binary.gif" width="220" alt="Cyber Keris Tech Preview"/>
   </a>
   <p>AI-powered coding ecosystem with <strong>real-time debugging, AI-assisted documentation, blockchain security, automated CI/CD pipelines, and voice coding.</strong></p>
   <a href="https://Themarvel.Space">Explore Project →</a>
