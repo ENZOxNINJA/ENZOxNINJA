@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <p align="center">
-  <img src="https://www.itl.cat/pngfile/big/195-1950897_matrix-code-animation-gif-free-animated-background-binary.gif" alt="Cyber Keris Tech Banner" width="800"/>
+  <img src="" alt="Cyber Keris Tech Banner" width="800"/>
 </p>
 
 # <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ Enzo | Alan The Marvel | The Dragon Coder | ENZOxNINJA 🛡️</span></p>
@@ -37,7 +37,7 @@ Contact: <a href="mailto:Alan@Themarvel.Space">Alan@Themarvel.Space</a> | 🌍 <
 <td align="center" width="280px">
   <h3>Cyber Keris Tech</h3>
   <a href="https://Themarvel.Space">
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="220" alt="Cyber Keris Tech Preview"/>
+    <img src="https://chatgpt.com/s/m_68d916c319748191b71af585dcbe3ab6" width="220" alt="Cyber Keris Tech Preview"/>
   </a>
   <p>AI-powered coding ecosystem with <strong>real-time debugging, AI-assisted documentation, blockchain security, automated CI/CD pipelines, and voice coding.</strong></p>
   <a href="https://Themarvel.Space">Explore Project →</a>
