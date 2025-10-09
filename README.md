@@ -6,7 +6,7 @@
   <img src="ChatGPT Image Sep 28, 2025, 06_52_22 PM.png" alt="Cyber Keris Tech Banner" width="800"/>
 </p>
 
-# <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ ♠️ Alan The Marvel | ♥️ ENZOxNINJA  | ♦️ The Dragon Coder | ♣️ Zhou 🛡️</span></p>
+# <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ ♠️ Alan The Marvel | ♥️ ENZOxNINJA  | ♣️ The Dragon Coder | ♦️ Zhou 🛡️</span></p>
 ### <p align="center">Tech Visionary | AI & Blockchain Specialist | Ethical Hacker | Full-Stack Developer</p>
 
 <p align="center">
