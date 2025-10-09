@@ -7,7 +7,7 @@
 </p>
 
 # <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ ♠️ Alan The Marvel | ♥️ ENZOxNINJA  | ♣️ The Dragon Coder | ♦️ Zhou 🛡️</span></p>
-### <p align="center">Tech Visionary | AI & Blockchain Specialist | Ethical Hacker | Full-Stack Developer</p>
+### <p align="center">Tech Visionary | AI & Blockchain Specialist | Ethical Hacker (Grey Hat) | Full-Stack Developer</p>
 
 <p align="center">
 <strong>Founder of <a href="https://Themarvel.Space">Cyber Keris Tech</a> 🚀</strong><br>
