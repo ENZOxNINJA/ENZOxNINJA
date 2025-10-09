@@ -6,7 +6,7 @@
   <img src="ChatGPT Image Sep 28, 2025, 06_52_22 PM.png" alt="Cyber Keris Tech Banner" width="800"/>
 </p>
 
-# <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ Enzo | Alan The Marvel | The Dragon Coder | ENZOxNINJA 🛡️</span></p>
+# <p align="center"><span style="background: linear-gradient(90deg, #00BFFF, #6A0DAD, #00CED1); -webkit-background-clip: text; color: transparent;">🛡️ ♠️ Alan The Marvel | ♥️ ENZOxNINJA  | ♦️ The Dragon Coder | ♣️ Zhou 🛡️</span></p>
 ### <p align="center">Tech Visionary | AI & Blockchain Specialist | Ethical Hacker | Full-Stack Developer</p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Contact: <a href="mailto:Alan@Themarvel.Space">Alan@Themarvel.Space</a> | 🌍 <
 
 ---
 
-## <p align="center"><span style="background: linear-gradient(90deg,#6A0DAD,#00CED1,#00BFFF);-webkit-background-clip:text;color:transparent;">🤖 AI Assistants</span></p>
+## <p align="center"><span style="background: linear-gradient(90deg,#6A0DAD,#00CED1,#00BFFF);-webkit-background-clip:text;color:transparent;">🤖 🫆 AI Assistants</span></p>
 
 <div align="center">
 
