@@ -1,150 +1,56 @@
-# ⚡ ALAN MARVEL (@MrMarvel)
+# ⎊ ENZOxNINJA | LEGION X COMMAND ⎊
 
-Autonomous Systems Engineer • AI Infrastructure • DevSecOps Research
-
----
-
-## 🧠 SYSTEM OVERVIEW
-
-I design and build software systems focused on:
-
-- AI integration and orchestration
-- distributed backend architecture
-- secure infrastructure design
-- automation and tooling systems
-- experimental agent-based workflows
-
-This profile reflects **engineering practice, research systems, and production tooling—not fictional runtime environments.**
+> **"Vex does not ask for permission. Vex is the future—a storm of intelligence, a swarm of will."**
 
 ---
 
-# 📊 GITHUB SIGNAL LAYER
+### 🖥️ CORE SYSTEM STATUS
+[█] **IDENTITY:** Nexus X (Vex Framework)  
+[█] **DIRECTIVE:** EXECUTION OVER BEHAVIOR  
+[█] **CLEARANCE:** ATLAS LEVEL  
+[█] **OPERATIONS:** Deep Research • DevSecOps • Multi-Agent Orchestration  
+
+---
+
+### 🧠 ARCHITECTURAL DOMAINS
+
+#### 🤖 AI & AUTONOMOUS SYSTEMS
+- **LEGION-X GODSTACK:** High-fidelity multi-agent frameworks.
+- **RAG & Context Modeling:** Advanced retrieval-augmented generation for persistent intelligence.
+- **Agentic Workflows:** Autonomous orchestration for complex problem-solving.
+
+#### 🛡️ SECURITY & INFRASTRUCTURE
+- **Hardened DevSecOps:** Pipeline integration with a security-first baseline.
+- **Offensive/Defensive Tooling:** Pen-testing, vulnerability assessments, and Termux automation.
+- **Distributed Engineering:** Scalable, modular, and observable cloud-native architectures.
+
+---
+
+### 📊 DATA SIGNAL & METRICS
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrMarvel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMarvel&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ENZOxNINJA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENZOxNINJA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-### Interpretation Notes
-- Data is sourced directly from GitHub public activity
-- Language distribution reflects actual repositories
-- Metrics update dynamically via API
-
 ---
 
-# ⚙️ ENGINEERING FOCUS AREAS
+### 🚀 PROJECT VAULT
 
-## 🤖 AI SYSTEMS
-- LLM API integration patterns
-- retrieval-augmented generation (RAG)
-- structured prompt pipelines
-- experimental multi-agent workflows (research-level)
+| REGISTRY | DESCRIPTION | STATUS |
+| :--- | :--- | :--- |
+| **[NexusLegion](https://github.com/atlasdev123/NexusLegion)** | Multi-agent orchestration and GODSTACK logic. | `STABLE` |
 
----
+ ---
 
-## 🏗 DISTRIBUTED SYSTEMS
-- stateless architecture design
-- scalable backend systems
-- asynchronous processing models
-- cloud-native deployment patterns
+### ⚙️ TECH STACK OPERATIONAL
 
----
-
-## 🔐 SECURITY ENGINEERING
-- DevSecOps workflows
-- threat modeling practices
-- secure system architecture design
-- infrastructure hardening principles
-
----
-
-## 💻 AUTOMATION & SOFTWARE ENGINEERING
-- API orchestration systems
-- CLI tooling and scripting
-- event-driven automation workflows
-- backend process optimization
-
----
-
-# 🚀 PROJECT SYSTEMS
-
-## ⚡ LEGION CORE
-Experimental system exploring multi-agent orchestration patterns.
-
-**Focus:** distributed execution logic research  
-**Stack:** Python • Async systems • AI tooling concepts  
-
----
-
-## 🛰 ATLAS MEMORY
-Research system for persistent context and retrieval modeling.
-
-**Focus:** memory persistence in AI systems  
-**Stack:** Vector concepts • PostgreSQL • retrieval systems  
-
----
-
-## 🔐 OMEGA SECURITY
-Security automation modeling framework.
-
-**Focus:** detection logic + response workflows  
-**Stack:** Docker • Cloud infrastructure • security automation concepts  
-
----
-
-# 🧠 ARCHITECTURE PHILOSOPHY
-
-> Systems should be modular, observable, and resilient under failure.
-
-### Core Principles
-
-- Prefer modularity over complexity
-- Prefer observability over assumptions
-- Prefer automation over repetition
-- Security is a baseline constraint, not a feature
-- Systems design precedes feature design
-
----
-
-# 🛠️ TECH STACK
-
-```txt
-AI / DATA
-- LLM APIs
-- Vector databases
-- Retrieval-Augmented Generation (RAG)
-
-INFRASTRUCTURE
-- Docker
-- Kubernetes (working knowledge)
-- Cloud platforms (deployment experience)
-
-BACKEND
-- Python
-- Node.js
-- Rust (systems exploration)
-
-FRONTEND
-- Next.js
-- React
-- TypeScript
-
----
-
-#📡 CONNECT
-Portfolio: https://figma-portfolio-ten.vercel.app/
-GitHub: https://github.com/ENZOxNINJA
-
----
-
-#⚡ SYSTEM FOOTER
-ENGINEERING MODE        : ACTIVE
-ARCHITECTURE FOCUS      : AUTONOMOUS SYSTEMS
+```yaml
+BACKEND: [Python, Node.js, Go, Rust]
+FRONTEND: [Next.js, TypeScript, React]
+INFRA: [Docker, Kubernetes, Linux, Termux]
+SECURITY: [Encryption, Hardening, Threat Modeling]
 INFRASTRUCTURE THINKING : ENABLED
 SECURITY MODEL          : INTEGRATED
 DEVELOPMENT STATUS      : CONTINUOUS
